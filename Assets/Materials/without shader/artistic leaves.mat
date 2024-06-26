@@ -109,9 +109,9 @@ Material:
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
-    - _BlendEdge1: -4.64
-    - _BlendEdge2: 5.06
-    - _BlendHeight: 10.32
+    - _BlendEdge1: 0.82
+    - _BlendEdge2: 9.18
+    - _BlendHeight: -7.77
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
@@ -135,7 +135,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SSSIntensity: 0.12
-    - _SSSPower: 7.14
+    - _SSSPower: 17.79
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1

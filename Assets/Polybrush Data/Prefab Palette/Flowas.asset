@@ -149,3 +149,20 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: foxglove 3 xrotat  Variant
+  - gameObject: {fileID: 2929051097447163342, guid: ca5c6b8a6326c7342920e8b2e5da4c71,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1.3212851}
+      m_UniformBool: 1
+      m_XRotationBool: 1
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: wisteria foxglove xrotat  Variant

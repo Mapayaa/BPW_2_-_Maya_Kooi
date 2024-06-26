@@ -81,3 +81,20 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: clover patch xrotate (1)
+  - gameObject: {fileID: 5526683715344910720, guid: a8a897db4ddc1fe44942ddf5e79371e7,
+      type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 0.6787149, y: 1.0535473}
+      m_UniformBool: 1
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Grass_halm Variant 1

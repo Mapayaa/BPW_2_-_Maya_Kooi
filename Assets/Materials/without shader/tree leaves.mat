@@ -148,12 +148,12 @@ Material:
     - _windStrength: 0.25
     m_Colors:
     - _BaseColor: {r: 0.151515, g: 1, b: 0, a: 1}
-    - _BottomColor: {r: 0.062081575, g: 0.33962262, b: 0, a: 0}
+    - _BottomColor: {r: 0.1030022, g: 0.35220122, b: 0.26622874, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SSSColor: {r: 0.69131935, g: 0.8509804, b: 0.45490196, a: 1}
+    - _SSSColor: {r: 0.45490196, g: 0.8509804, b: 0.4645896, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _TopColor: {r: 0.8050314, g: 0.7410347, b: 0.032909945, a: 0}
+    - _TopColor: {r: 0.20392156, g: 0.8235294, b: 0.45582783, a: 0}
     - _WindMovement: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6910302404682899902

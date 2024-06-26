@@ -82,7 +82,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture:
-        m_Texture: {fileID: 2800000, guid: 9999b2c0f06c1334f88ca2c324b42685, type: 3}
+        m_Texture: {fileID: 2800000, guid: 800c6a6548767a64597d5245067289ea, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
