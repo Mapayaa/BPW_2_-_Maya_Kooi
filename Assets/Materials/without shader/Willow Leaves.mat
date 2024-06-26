@@ -109,9 +109,9 @@ Material:
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
-    - _BlendEdge1: -4.89
+    - _BlendEdge1: 1.57
     - _BlendEdge2: 6.17
-    - _BlendHeight: -1.04
+    - _BlendHeight: 5.48
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
@@ -134,8 +134,8 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _SSSIntensity: 0.18
-    - _SSSPower: 5.51
+    - _SSSIntensity: 0.02
+    - _SSSPower: 2.21
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -148,12 +148,12 @@ Material:
     - _windStrength: 0.59
     m_Colors:
     - _BaseColor: {r: 0.151515, g: 1, b: 0, a: 1}
-    - _BottomColor: {r: 0.034591157, g: 0.32758227, b: 0.3333333, a: 0}
+    - _BottomColor: {r: 0.075471655, g: 0.4528302, b: 0.39055616, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SSSColor: {r: 0.69131935, g: 0.8509804, b: 0.45490196, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _TopColor: {r: 0, g: 0.46540874, b: 0.09477272, a: 0}
+    - _TopColor: {r: 0.18650839, g: 0.62352943, b: 0, a: 0}
     - _WindMovement: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6910302404682899902
