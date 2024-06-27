@@ -52,6 +52,11 @@
                 "value": "{\"m_Value\":true}"
             },
             {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Mesh.RebuildNormals",
+                "value": "{\"m_Value\":true}"
+            },
+            {
                 "type": "UnityEngine.Polybrush.BrushMirror, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "Brush.MirrorAxis",
                 "value": "{\"m_Value\":0}"
@@ -64,7 +69,7 @@
             {
                 "type": "UnityEditor.Polybrush.PrefabLoadout, Unity.Polybrush.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ScatteringEditor.userLoadout",
-                "value": "{\"m_Value\":{\"infos\":[{\"palette\":{\"fileID\":11400000,\"guid\":\"e2444a52cc4f75047af10e4239501bbf\",\"type\":2},\"prefab\":{\"fileID\":8195864685238761832,\"guid\":\"0e65b0076b195aa45acdb8ad81cfedf4\",\"type\":3}}]}}"
+                "value": "{\"m_Value\":{\"infos\":[{\"palette\":{\"fileID\":11400000,\"guid\":\"7888967368eaea6439c8dc3a49f1e7a4\",\"type\":2},\"prefab\":{\"fileID\":3153940726658421658,\"guid\":\"155baecc7eb928a4eb8979ab7d61c71b\",\"type\":3}}]}}"
             },
             {
                 "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -100,6 +105,11 @@
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "RaiseLowerBrush.Strength",
                 "value": "{\"m_Value\":5.0}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Brush.VertexBillboardSize",
+                "value": "{\"m_Value\":2.0}"
             }
         ]
     }

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class Singleton : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class Singleton : MonoBehaviour
     private int eventsTriggered = 0;
     private bool moodSwitch;
 
+   
     private void Awake()
     {
         if(Instance != null && Instance != this)
@@ -46,5 +48,7 @@ public class Singleton : MonoBehaviour
         moodSwitch = true;
         Debug.Log("Mood switched");
         //foliageMat.SetFloat("_Wind_strength", 3.0f);
+        
     }
+   
 }
