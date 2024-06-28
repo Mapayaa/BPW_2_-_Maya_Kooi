@@ -6,6 +6,7 @@ public class InteractableMinor : MonoBehaviour
 {
     private bool inRange;
     private bool eventTriggered;
+    public GameObject ParticleEffect;
 
     // Update is called once per frame
     void Update()
@@ -17,6 +18,7 @@ public class InteractableMinor : MonoBehaviour
                 Singleton.Instance.TriggerEvent();
                 eventTriggered = true;
                 Debug.Log("Triggered");
+                ParticleEffect.SetActive(true);
             }
         }
     }
