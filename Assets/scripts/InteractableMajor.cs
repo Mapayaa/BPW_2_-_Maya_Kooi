@@ -10,6 +10,12 @@ public class InteractableMajor : MonoBehaviour
      public GameObject BeforeGlobalVolume; // Assign this in the Inspector
     public GameObject AfterGlobalVolume; // Assign this in the Inspector
 
+    public Animator mAnimator; 
+    public Animator mAnimator2; 
+    public Animator mAnimator3; 
+    public Animator mAnimator4; 
+    public Animator mAnimator5; 
+
  void Start()
     {
         // Ensure the initial global volume is enabled and the new global volume is disabled at the start
@@ -22,6 +28,8 @@ public class InteractableMajor : MonoBehaviour
         {
             AfterGlobalVolume.SetActive(false);
         }
+
+        
     }
     // Update is called once per frame
     void Update()
@@ -34,6 +42,7 @@ public class InteractableMajor : MonoBehaviour
                 eventTriggered = true;
                 Debug.Log("Triggered");
                 SwitchVolumes();
+                WindyLeaves();
             }
         }
     }
@@ -68,5 +77,14 @@ public class InteractableMajor : MonoBehaviour
         AfterGlobalVolume.SetActive(true);
 
         Debug.Log("Switched global volumes.");
+    }
+    
+    void WindyLeaves()
+    { 
+        mAnimator.SetTrigger("Switched");
+        mAnimator2.SetTrigger("Switched");
+        mAnimator3.SetTrigger("Switched");
+        mAnimator4.SetTrigger("Switched");
+        mAnimator5.SetTrigger("Switched");
     }
 }
